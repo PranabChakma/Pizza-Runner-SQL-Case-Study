@@ -28,4 +28,4 @@ The task and aim of this project is to provide Danny, the owner of Pizza Runner,
 
 # How to run step by step through SQL queries
 1. Create database and insert data into database using this [SQL Dataset](./pizza_runner.sql)
-2. Execute analytical queries using this 
+2. Execute analytical queries using this [SQL queries](./pizza runner solution.sql)
