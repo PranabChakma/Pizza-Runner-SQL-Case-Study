@@ -27,4 +27,4 @@ The task and aim of this project is to provide Danny, the owner of Pizza Runner,
 12. What was the average speed for each runner for each delvery and do you notice any trend for these values?
 
 # How to run step by step through SQL queries
-1. 
+1. Create database and insert data into database using this [SQL Dataset](./pizza_runner.sql)
