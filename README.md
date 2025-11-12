@@ -9,3 +9,6 @@ Danny has prepared an entity relationship diagram of his database design, but re
 # Business Task
 The task and aim of this project is to provide Danny, the owner of Pizza Runner, with more insights into his business. And to help him optimize operations using the data he has provided.
 
+# Dataset
+This project uses six tables: 1. runners(runner_id, registration_date) 2. customer_orders(order_id, customer_id, pizza_id, exclusions, extras, order_time) 3. runner_orders(order_id, runner_id, pickup_time, distance, duration, cancellation) 4. pizza_names(pizza_id, pizza_name) 5. pizza_recipes(pizza_id, toppings) 6. pizza_toppings(topping_id, topping_name)
+
