@@ -10,4 +10,4 @@ Danny has prepared an entity relationship diagram of his database design, but re
 The task and aim of this project is to provide Danny, the owner of Pizza Runner, with more insights into his business. And to help him optimize operations using the data he has provided.
 
 # Entity Relationship Diagram
-[Alt Text](ERD.png)
+[View Full Report (PDF)](./ERD.png)
