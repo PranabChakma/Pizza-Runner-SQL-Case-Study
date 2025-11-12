@@ -11,3 +11,20 @@ The task and aim of this project is to provide Danny, the owner of Pizza Runner,
 
 # Entity Relationship Diagram
 [View Full Diagram](./ERD.png)
+
+# Case Studies Questions
+1. How many pizzas were ordered?
+2. How many unique customer orders were made?
+3. How many successful orders were delivered by each runner?
+4. How many of each type of pizza was delivered?
+5. How many vegetarian and meatlovers were ordered by each customer?
+6. What was the maximum number of pizzas delivered in a single order?
+7. What was the total volume of pizzas ordered for each hour of the day?
+8. How many runners signed up for each week ?
+9. What was the average time in minutes it took for each runner to arrive at the pizza runner hq to pickup the order?
+10. What was the average distance travelled for each customer?
+11. What was the difference between the longest and shortest delivery time for all orders?
+12. What was the average speed for each runner for each delvery and do you notice any trend for these values?
+
+# How to run step by step through SQL queries
+1. 
