@@ -24,7 +24,6 @@ The task and aim of this project is to provide Danny, the owner of Pizza Runner,
 9. What was the average time in minutes it took for each runner to arrive at the pizza runner hq to pickup the order?
 10. What was the average distance travelled for each customer?
 11. What was the difference between the longest and shortest delivery time for all orders?
-12. What was the average speed for each runner for each delvery and do you notice any trend for these values?
 
 # How to run step by step through SQL queries
 1. Create database and insert data into database using this [SQL Dataset](./pizza_runner.sql)
